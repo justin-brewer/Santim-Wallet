@@ -1,5 +1,8 @@
 # Santim Wallet
-
+## Clone Repository
+```
+https://github.com/apnsantim/Santim-Wallet.git
+```
 ## Project setup
 ```
 npm install
