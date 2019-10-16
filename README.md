@@ -1,4 +1,4 @@
-# web-client-vue
+# Santim Wallet
 
 ## Project setup
 ```
